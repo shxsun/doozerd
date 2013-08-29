@@ -28,7 +28,7 @@ If you want to run doozer's tests, install
 
     (make sure you have set $GOPATH)
     $ mkdir -p $GOPATH/src/github.com/ha/
-    $ git clone https://github.com/ha/doozerd.git
+    $ git clone https://github.com/shxsun/doozerd.git
     $ cd doozerd
     $ ./all.sh
 

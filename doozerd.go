@@ -6,7 +6,7 @@ import (
 	"flag"
 	"fmt"
 	"github.com/ha/doozer"
-	"github.com/ha/doozerd/peer"
+	"github.com/shxsun/doozerd/peer"
 	"log"
 	"net"
 	"os"

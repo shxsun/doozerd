@@ -3,7 +3,7 @@ package web
 import (
 	"github.com/kellegous/websocket"
 	"encoding/json"
-	"github.com/ha/doozerd/store"
+	"github.com/shxsun/doozerd/store"
 	"io"
 	"log"
 	"net"

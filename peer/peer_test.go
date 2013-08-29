@@ -3,7 +3,7 @@ package peer
 import (
 	"github.com/bmizerany/assert"
 	"github.com/ha/doozer"
-	"github.com/ha/doozerd/store"
+	"github.com/shxsun/doozerd/store"
 	"os/exec"
 
 	"testing"

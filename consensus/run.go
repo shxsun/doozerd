@@ -3,7 +3,7 @@ package consensus
 import (
 	"github.com/adeven/goprotobuf/proto"
 	"container/heap"
-	"github.com/ha/doozerd/store"
+	"github.com/shxsun/doozerd/store"
 	"log"
 	"math/rand"
 	"net"

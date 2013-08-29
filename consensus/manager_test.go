@@ -4,7 +4,7 @@ import (
 	"github.com/adeven/goprotobuf/proto"
 	"container/heap"
 	"github.com/bmizerany/assert"
-	"github.com/ha/doozerd/store"
+	"github.com/shxsun/doozerd/store"
 	"net"
 	"sort"
 	"testing"

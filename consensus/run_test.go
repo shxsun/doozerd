@@ -3,7 +3,7 @@ package consensus
 import (
 	"github.com/adeven/goprotobuf/proto"
 	"github.com/bmizerany/assert"
-	"github.com/ha/doozerd/store"
+	"github.com/shxsun/doozerd/store"
 	"net"
 	"testing"
 )
