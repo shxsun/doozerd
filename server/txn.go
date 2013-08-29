@@ -1,7 +1,7 @@
 package server
 
 import (
-	"code.google.com/p/goprotobuf/proto"
+	"github.com/adeven/goprotobuf/proto"
 	"github.com/ha/doozerd/consensus"
 	"github.com/ha/doozerd/store"
 	"io"

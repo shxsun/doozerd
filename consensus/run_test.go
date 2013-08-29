@@ -1,7 +1,7 @@
 package consensus
 
 import (
-	"code.google.com/p/goprotobuf/proto"
+	"github.com/adeven/goprotobuf/proto"
 	"github.com/bmizerany/assert"
 	"github.com/ha/doozerd/store"
 	"net"
